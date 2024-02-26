@@ -7,7 +7,7 @@
     label-position="left"
     @submit.native.prevent="randomCat(form.name)"
   >
-    <h2>4. Get a random cat with your name</h2>
+    <h2>4. Get a random cat with your name!</h2>
     <p><em>API call done by your browser</em></p>
     <ElFormItem label="Name">
       <ElInput
