@@ -7,7 +7,7 @@
     label-position="left"
     @submit.native.prevent="helloName(form.name)"
   >
-    <h2>2. Hello, {name}</h2>
+    <h2>2. Hello, {name}!</h2>
     <ElFormItem label="Name">
       <ElInput
         v-model="form.name"
