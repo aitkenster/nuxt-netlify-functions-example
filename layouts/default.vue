@@ -13,7 +13,7 @@
       <nuxt />
     </ElMain>
     <ElFooter>
-      Created by
+      Created by ***
       <a href="https://github.com/wearelucid" target="_blank">Lucid</a>
     </ElFooter>
   </ElContainer>

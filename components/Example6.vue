@@ -7,7 +7,7 @@
     label-position="left"
   >
     <h2>
-      6. Send form submission with
+      6. Send form submission with...
       <a href="https://www.mailgun.com/" target="_blank">Mailgun</a>
     </h2>
     <ElFormItem label="Name" prop="name">
