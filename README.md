@@ -11,7 +11,7 @@
 
 Live demo can be found [here](https://nuxt-netlify-functions-example.netlify.com/).
 
-## Testing functions locally
+## Testing functions locallyvsdsdvvsd
 
 Thanks to the [Netlify Dev](https://www.netlify.com/products/dev/) command in the Netlify CLI (`yarn global add netlify-cli`), you can test your functions locally with no build step involved!
 
