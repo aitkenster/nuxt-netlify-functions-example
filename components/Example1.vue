@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>1. Hello, World!</h2>
+    <h2>1. Hola, Mundo!</h2>
     <ElButton type="primary" data-cy="btn-hello-world" @click="helloWorld()"
       >Hello</ElButton
     >
